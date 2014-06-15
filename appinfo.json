@@ -1,0 +1,25 @@
+{
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "file": "images/menu_icon_simplicity.png",
+                "name": "IMAGE_MENU_ICON",
+                "menuIcon": true
+            }
+        ]
+    },
+    "versionCode": 3,
+    "shortName": "Simplicity Mod",
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0.0",
+    "longName": "Simplicity Mod",
+    "uuid": "fa07c2fb-665b-4e18-9eaf-0a53519452fc",
+    "appKeys": {},
+    "companyName": "Yuriy Galanter",
+    "watchapp": {
+        "watchface": true
+    }
+}
